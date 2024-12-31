@@ -1,1 +1,2 @@
 # Baseline Assessment of the Climate Change Adaptation and Rural Livelihoods (CARL)
+- The CARL Project aims to enhance climate resilience and improve rural livelihoods in four Afghan provinces—Ghor, Ghazni, Nangarhar, and Nuristan. This assessment will establish baseline values for key project indicators, enabling Afghanaid and its partners to monitor progress, measure impact, and align interventions with community needs.
